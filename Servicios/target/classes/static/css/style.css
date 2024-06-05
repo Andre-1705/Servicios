@@ -1,0 +1,7 @@
+.boton-link{
+    color: dodgerblue;
+}
+.boton-link:hover{
+    background-color:lightskyblue;
+    color: azure;
+}
